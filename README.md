@@ -1,0 +1,2 @@
+# TypeScriptGame
+mini game
